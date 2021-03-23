@@ -1,0 +1,37 @@
+
+header
+    {
+    
+    color: palevioletred;
+    font-size: large;
+    background-image: url("https://image.freepik.com/free-vector/watercolor-rose-flower-decorative-background-with-text-space_1017-26999.jpg");
+    background-size: auto;
+    background-position:  center;
+    height: 600px;
+    width: 100%;
+    
+}
+header .content h1 {
+  padding: 100px 100px 100px 100px;
+  position: relative;
+  top: 150px;
+  
+  width: 400px;
+  margin: 0 auto;
+  border: 3px solid pink;
+  text-align: center;
+  
+}
+body{
+  background: url("https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-simple-simple-texture-gradient-image_32654.jpg") no-repeat center center fixed;
+  
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+body{
+    font-family: "Comic Sans MS" , sans-serif;
+}
